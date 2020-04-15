@@ -1,3 +1,3 @@
 # Credit-Card-Utilization
 
-This dashboard was generated in PowerBI.
+This dashboard was generated in PowerBI desktop.
